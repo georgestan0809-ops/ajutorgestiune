@@ -5,6 +5,7 @@ node_modules
 .env.*.local
 dist
 coverage
+tsconfig.tsbuildinfo
 *.log
 pnpm-lock.yaml
 yarn.lock
